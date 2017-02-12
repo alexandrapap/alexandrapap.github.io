@@ -1,0 +1,28 @@
+.welcome {
+	color: red;
+    border-bottom: solid;
+    border-bottom-color: black;
+    width: 130px;
+}
+.tagline {
+	color:blue;
+}
+.JCole {
+	color:red;
+}
+.Manu {
+	color:blue;
+}
+.Kendrick {
+	color:red;
+}
+.navbar-brand {
+	color:white;
+}
+.nav-link {
+	color:white;
+}
+.bg-primary {
+    color: #fff;
+    background-color: red;
+}
